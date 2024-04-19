@@ -1,3 +1,3 @@
-# React + Vite
+# React Landing Page
 
 first landing page in react!
